@@ -1,1 +1,2 @@
 # cli_app
+This is just a repo i've used to test out some things with the cli_app package. The implementation here is the exercise from the book [The Rust Programming Language](https://doc.rust-lang.org/book/ch12-00-an-io-project.html) that i've been working through in the last few days.     
